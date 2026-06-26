@@ -1,212 +1,69 @@
-<h1 align="center">Olá, eu sou Rodrigo Nascimento 👋</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" min-width="400px" max-width="400px" width="400px" align="right"/>
 
+# 👋 Olá! Eu sou Rodrigo Nascimento
 
+<p align="left">
+Sou <strong>Desenvolvedor</strong> com experiência na criação de aplicações web, sistemas corporativos e integrações utilizando tecnologias modernas do ecossistema JavaScript e PHP.
 
-<p align="center">
+Atualmente atuo na <strong>Rillsoft Sistemas</strong>, onde participo do desenvolvimento de soluções para ERP, plataformas de e-commerce, hubs de pagamento e integrações com APIs bancárias. Também atuo como líder técnico em projetos, contribuindo para o desenvolvimento de soluções escaláveis e de fácil manutenção.
 
-&#x20; <b>Desenvolvedor Frontend</b> com experiência em backend, apaixonado por transformar ideias em aplicações web escaláveis e intuitivas.
-
-</p>
-
-
-
-<p align="center">
-
-&#x20; <a href="https://www.linkedin.com/in/rodrigoo-nscmt">
-
-&#x20;   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white"/>
-
-&#x20; </a>
-
-&#x20; <a href="https://rodrigorefnn.vercel.app">
-
-&#x20;   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white"/>
-
-&#x20; </a>
-
-&#x20; <a href="mailto:SEUEMAIL@hotmail.com">
-
-&#x20;   <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white"/>
-
-&#x20; </a>
+Estou sempre buscando evoluir como desenvolvedor, estudando arquitetura de software, boas práticas e novas tecnologias para construir aplicações cada vez mais robustas.
 
 </p>
 
+## 🚀 Stack
 
+**Frontend**
 
-\---
+Vue.js • React • TypeScript • JavaScript • React Native • HTML • CSS • Tailwind CSS • Sass
 
+**Backend**
 
+PHP • Node.js • Express • Laravel
 
-\## 💻 Sobre mim
+**Banco de Dados**
 
+MySQL • MongoDB • Firebase
 
+**Ferramentas**
 
-Sou Desenvolvedor Frontend com experiência em desenvolvimento de aplicações web utilizando \*\*Vue.js\*\*, \*\*React\*\*, \*\*TypeScript\*\* e \*\*JavaScript\*\*.
+Git • Docker • Linux • Postman • Vite • Vercel
 
+## 📚 Atualmente estudando
 
+* Clean Architecture
+* CI/CD
+* Inteligência Artificial aplicada ao desenvolvimento
 
-Atualmente atuo na \*\*Rillsoft Sistemas\*\*, participando do desenvolvimento de soluções para ERP, plataformas de e-commerce, sistemas de pagamento, integrações com APIs bancárias e implementação de funcionalidades relacionadas à nova reforma tributária. Também exerço o papel de líder técnico em projetos da equipe.
+## ⭐ Projetos em destaque
 
+* 📚 **MeuGabarito** — Plataforma SaaS para criação de provas utilizando React, PHP e MySQL.
+* 💳 **Hub de Pagamentos** — Plataforma responsável pela integração com APIs bancárias e gateways de pagamento.
+* 📱 **Ceifa App** — Aplicativo mobile desenvolvido em React Native para gerenciamento de conteúdos e transmissões ao vivo.
 
+## 📬 Contato
 
-Tenho experiência com backend utilizando \*\*Node.js\*\* e \*\*PHP\*\*, criação de APIs REST, autenticação JWT, WebSockets e bancos de dados relacionais.
+<a href="mailto:rodrigoerick_2013@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/rodrigoo-nscmt/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://refnn.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-\---
+---
 
+# 👋 Hi, I'm Rodrigo Erick
 
+<p align="left">
+I'm a <strong>Software Developer</strong> experienced in building web applications, enterprise systems and integrations using modern JavaScript and PHP technologies.
 
-\## 🚀 Tecnologias
+Currently, I work at <strong>Rillsoft Sistemas</strong>, developing ERP solutions, e-commerce platforms, payment hubs and banking API integrations. I also contribute as a technical lead on projects, helping build scalable and maintainable software.
 
-
-
-\### Frontend
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white"/>
-
-</p>
-
-
-
-\### Backend
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white"/>
+I'm constantly improving my skills by studying software architecture, best practices and emerging technologies.
 
 </p>
-
-
-
-\### Banco de Dados
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black"/>
-
-</p>
-
-
-
-\### Ferramentas
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black"/>
-
-</p>
-
-
-
-\---
-
-
-
-\## ⭐ Projetos em destaque
-
-
-
-\### 📚 MeuGabarito
-
-
-
-Plataforma SaaS para criação de provas e gabaritos, desenvolvida com React, PHP e MySQL. Possui banco de questões, exportação para PDF e Word, embaralhamento de questões, correção por escaneamento e geração de questões utilizando IA.
-
-
-
-\---
-
-
-
-\### 🛒 Royal Shoes
-
-
-
-Sistema de e-commerce completo com autenticação de usuários, carrinho de compras, gerenciamento de produtos e integração com banco de dados.
-
-
-
-\---
-
-
-
-\### 📱 Ceifa App
-
-
-
-Aplicativo mobile desenvolvido em React Native para uma instituição, permitindo publicação de novidades, calendário de eventos e transmissões ao vivo via integração com YouTube.
-
-
-
-\---
-
-
-
-\## 📈 Atualmente estudando
-
-
-
-\- Arquitetura Frontend
-
-\- Performance em aplicações React/Vue
-
-\- Clean Code
-
-\- Testes automatizados
-
-\- Design Patterns
-
-
-
-\---
-
-
-
-\## 📫 Contato
-
-
-
-\- 🌐 Portfólio: \*\*https://rodrigorefnn.vercel.app\*\*
-
-\- 💼 LinkedIn: \*\*https://www.linkedin.com/in/rodrigoo-nscmt\*\*
-
-\- 📧 E-mail: \*\*SEUEMAIL@hotmail.com\*\*
-
