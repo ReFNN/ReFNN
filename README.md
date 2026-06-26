@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/banner.png" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/ReFNN/ReFNN/main/assets/banner.png" alt="Banner ReFNN" width="100%"/>
 
 <h1 align="center">Hi, I'm Rodrigo Nascimento 👋</h1>
 
@@ -79,15 +79,6 @@ Mobile application built with React Native for content publishing, event schedul
 - Clean Architecture
 - CI/CD
 - Artificial Intelligence for Software Development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReFNN&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReFNN&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
