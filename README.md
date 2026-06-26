@@ -1,30 +1,96 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" min-width="400px" max-width="400px" width="400px" align="right"/>
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/banner.png" alt="Banner" width="100%"/>
 
-# 👋 Bem vindo! Eu sou Rodrigo.
+<h1 align="center">Hi, I'm Rodrigo Nascimento 👋</h1>
 
-<p align="left">
-Sou <strong>Desenvolvedor</strong> com experiência na criação de aplicações web, sistemas corporativos e integrações.
+<h3 align="center">
+Software Developer focused on building scalable web applications and enterprise solutions.
+</h3>
 
-Tenho experiência no desenvolvimento de plataformas de e-commerce, hubs de pagamento, APIs REST e sistemas ERP, além de atuar em projetos que envolvem arquitetura de software, integrações com serviços externos e interfaces modernas.
-
-Estou sempre em busca de novos desafios e aprimorando meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e tecnologias que contribuam para a criação de aplicações escaláveis e de alta qualidade.
-
+<p align="center">
+  <a href="mailto:rodrigoerick_2013@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigoo-nscmt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://refnn.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-## 🚀 Stack
+---
 
-**Frontend**
+## 👨‍💻 About Me
 
-Vue.js • React • TypeScript • JavaScript • React Native • Tailwind CSS 
+I'm a Software Developer with experience building web applications, enterprise systems and API integrations.
 
-**Backend**
+My experience includes developing ERP modules, payment hubs, e-commerce platforms, REST APIs and modern user interfaces using JavaScript and PHP technologies.
 
-PHP • Node.js • Express • Laravel • Python
+I enjoy solving real-world problems, designing maintainable architectures and creating scalable applications with clean and efficient code.
 
-**Banco de Dados**
+---
 
-MySQL • Postgrees • MongoDB • Firebase
+## 🚀 Tech Stack
 
-**Ferramentas**
+### Frontend
 
-Git • Docker • Linux • Postman • Vite • Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,sass,vite,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vercel"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📚 MeuGabarito
+
+A SaaS platform designed to help teachers create and manage exams efficiently. Features include AI-powered question generation, answer sheet scanning, PDF/Word export and a collaborative question bank.
+
+### 💳 Payment Hub
+
+Enterprise payment platform integrated with banking APIs and multiple payment gateways, focused on secure transactions and ERP integration.
+
+### 📱 Ceifa App
+
+Mobile application built with React Native for content publishing, event scheduling and YouTube live streaming integration.
+
+---
+
+## 🌱 Currently Learning
+
+- Clean Architecture
+- CI/CD
+- Artificial Intelligence for Software Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReFNN&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReFNN&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+</p>
