@@ -3,7 +3,7 @@
 # 👋 Bem vindo! Eu sou Rodrigo.
 
 <p align="left">
-Sou <strong>Desenvolvedor</strong> com experiência na criação de aplicações web, sistemas corporativos e integrações, utilizando tecnologias do ecossistema JavaScript e PHP.
+Sou <strong>Desenvolvedor</strong> com experiência na criação de aplicações web, sistemas corporativos e integrações.
 
 Tenho experiência no desenvolvimento de plataformas de e-commerce, hubs de pagamento, APIs REST e sistemas ERP, além de atuar em projetos que envolvem arquitetura de software, integrações com serviços externos e interfaces modernas.
 
