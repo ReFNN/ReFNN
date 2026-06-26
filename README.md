@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" min-width="400px" max-width="400px" width="400px" align="right"/>
 
-# 👋 Olá! Eu sou Rodrigo Nascimento
+# 👋 Bem vindo! Eu sou Rodrigo.
 
 <p align="left">
 Sou <strong>Desenvolvedor</strong> com experiência na criação de aplicações web, sistemas corporativos e integrações, utilizando tecnologias do ecossistema JavaScript e PHP.
