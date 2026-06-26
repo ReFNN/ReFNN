@@ -15,22 +15,16 @@ Estou sempre em busca de novos desafios e aprimorando meus conhecimentos em arqu
 
 **Frontend**
 
-Vue.js • React • TypeScript • JavaScript • React Native • HTML • CSS • Tailwind CSS • Sass
+Vue.js • React • TypeScript • JavaScript • React Native • Tailwind CSS 
 
 **Backend**
 
-PHP • Node.js • Express • Laravel
+PHP • Node.js • Express • Laravel • Python
 
 **Banco de Dados**
 
-MySQL • MongoDB • Firebase
+MySQL • Postgrees • MongoDB • Firebase
 
 **Ferramentas**
 
 Git • Docker • Linux • Postman • Vite • Vercel
-
-## 📚 Atualmente estudando
-
-* Clean Architecture
-* CI/CD
-* Inteligência Artificial aplicada ao desenvolvimento
