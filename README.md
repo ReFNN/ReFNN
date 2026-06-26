@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ReFNN/ReFNN/main/assets/banner.png" alt="Banner ReFNN" width="100%"/>
+<img src="https://raw.githubusercontent.com/ReFNN/ReFNN/main/banner.png" alt="Banner ReFNN" width="100%"/>
 
 <h1 align="center">Hi, I'm Rodrigo Nascimento 👋</h1>
 
